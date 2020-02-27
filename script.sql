@@ -1,2 +1,3 @@
-use db
 use BikeStores;
+-- 
+SELECT * FROM production.brands
