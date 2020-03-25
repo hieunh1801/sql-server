@@ -1,0 +1,6 @@
+-- Mệnh đề where trả về các rows thỏa mãn điều kiệ search(filter)
+-- trong mệnh đề where ta compare các trường trong một hàng thỏa mãn điều kiện lọc nào đó
+-- vd: age between 15 and 20
+-- vd: age < 15 and age > 10
+-- vd: name like N'%hieu%' -- filter with pattern
+-- vd: age in (12,3,4,5) -- in list of value
